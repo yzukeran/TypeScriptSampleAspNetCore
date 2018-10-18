@@ -9,7 +9,7 @@ namespace App{
             } else if( hour < 16 ) {
                 return "Good afternoon!";
             } else if ( hour < 22 ) {
-                return "Good evening!";
+                return "Good evening!hahaha!";
             } else {
                 return "Welcome back!";
             }
